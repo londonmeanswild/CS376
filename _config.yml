@@ -29,8 +29,8 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-  #Group Project: "https://londonmeanswild.github.io/museum-experience/"
- # Personal Portfolio: "http://londonmeanswild.github.io"
+  Design Manifesto: 
+  #Personal Portfolio: "http://londonmeanswild.github.io"
 
 
 # --- Footer options --- #
