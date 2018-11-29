@@ -1,57 +1,37 @@
 ---
 layout: page
-title: Human-Computer Interaction
-subtitle: Fall 2018, Williams College
-use-site-title: true
+title: Landon Marchant, CS 376, Fall 2018
+subtitle: Personal Portfolio for Human-Computer Interaction
 ---
+
+<div class="main-explain-area jumbotron">
+  <p>This is home to individual assignemnts for CS376, Human Computer Interaction. For our group project, a muse-tech application designed to support curators, see [heART: connecting curators to what really matters](https://londonmeanswild.github.io/museum-experience/_).</p>
+  </div>
+  <p> My research, coding projects, published writing, and other academic or professional work can be found [on my personal portfolio site.](https://londonmeanswild.github.io/)</p>
+  <p>Below are the individual assignemnts from CS376: my personal design manifesto, a good/bad design assessment, research paper summary, and individual project proposal.</p>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-
+	
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
 	  </h3>
-	  {% endif %}
+	  {% endif %}  
     </a>
 
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
+  
+    <div class="post-entry">
+      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Read More</a>
     </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
+  
    </article>
   {% endfor %}
 </div>
