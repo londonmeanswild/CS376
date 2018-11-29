@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Individual Project Proposal
-subtitle: Compathy: feelings...shared with another or others 
+title: Individual Project Proposal: Compathy
+subtitle: feelings...shared with another or others 
 ---
 
 ## Motivation
