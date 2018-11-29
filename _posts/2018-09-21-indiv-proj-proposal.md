@@ -3,6 +3,7 @@ layout: post
 title: Individual Project Proposal
 subtitle: Compathy: feelings...shared with another or others 
 ---
+
 ## Motivation
 
 My project is motivated by the desire to show the "texture and personality" of a museum collection, the creation process, and the impact exhibits have on visitors. In doing so, I hope to demonstrate that the [Williams College Museum of Art](https://wcma.williams.edu/) is always an open question, with space for interpretation and introspection. I intend to do this by capturing the responses of museum visitors, and the effort invested by staff, through wearable sensors and data visualization. Museum visitors can't see the effort spent curating a collection, and datasets don't capture the emotions of exhibit participants as they move through the display. 
