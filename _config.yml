@@ -29,8 +29,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-#  Group Project: "https://londonmeanswild.github.io/museum-experience/"
-  Group Project: <a href="https://londonmeanswild.github.io/museum-experience/" target="_blank">Group Project</a>
+  Group Project: "https://londonmeanswild.github.io/museum-experience/"
   Personal Portfolio: "http://londonmeanswild.github.io"
 
 
