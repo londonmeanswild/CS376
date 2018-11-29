@@ -26,9 +26,11 @@ description: Fall 2018
 avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
+
 navbar-links:
   Home: ""
-  Group Project: "https://londonmeanswild.github.io/museum-experience/"
+#  Group Project: "https://londonmeanswild.github.io/museum-experience/"
+  Group Project: <a href="https://londonmeanswild.github.io/museum-experience/" target="_blank">Group Project</a>
   Personal Portfolio: "http://londonmeanswild.github.io"
 
 
