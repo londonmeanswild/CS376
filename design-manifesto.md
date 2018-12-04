@@ -63,9 +63,8 @@ Our project began with wanting to make database information [more three-dimensio
 
 > Museum databases are flat and one-dimensional. There is no way to quantify the things people feel while looking at, or experiencing, art. This flatness makes it difficult to connect people with artwork based on hard-to-articulate themes (such as feelings)... We have decided to try and use the responses people have to artwork in order to add depth to museum data files. We want to show the “texture and personality” of a collection, and the way exhibits make people feel. 
 
-<iframe width="1000" height="700" src="https://www.youtube.com/embed/wmY6SomfXZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-By the end of our semester, we ended up creating an application, [heART](londonmeanswild.github.io/museum-experience), that would visualize visitor feedback and connect curators with visitors who want to ask questions. Our tasks also changed based on feedback from our professor. Since there were multiple other groups focusing on data collection of different forms, we assumed we had all the necessary data and instead focused on creating 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wmY6SomfXZg" target="_blank"><img src="http://img.youtube.com/vi/wmY6SomfXZg/0.jpg" 
+alt="heART in action" width="240" height="180" border="10" /></a> By the end of our semester, we ended up creating an application, [heART](londonmeanswild.github.io/museum-experience), that would visualize visitor feedback and connect curators with visitors who want to ask questions. Our tasks also changed based on feedback from our professor. Since there were multiple other groups focusing on data collection of different forms, we assumed we had all the necessary data and instead focused on creating 
 
 > a mobile application that will not only organize and present user data in an effective way, but allow curators to understand the experiences of visitors without sacrificing large amounts of time... a design that allows quick access to useful exhibit/artwork analytics as well as an easy way for curators to respond to visitor questions and suggestions. 
 
