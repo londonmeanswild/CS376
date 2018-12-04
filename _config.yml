@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-  Design Manifesto: "design-manifesto.md"
+  Design Manifesto: "design-manifesto"
   Personal Portfolio: "http://londonmeanswild.github.io"
 
 
