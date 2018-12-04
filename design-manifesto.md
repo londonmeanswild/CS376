@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Design manifesto
+title: Stop looking to tech for answers. 
+subtitle: This is technically a design manifesto for an upper level computer science course.
 ---
 
 #### TLDR; 
@@ -10,7 +11,7 @@ Being a sociology major has proven to be useful to my design process, because it
 * accessibility and equability are important, if people can't use your design it's worse than useless
 * *you are not the end user*
 * focusing on the tech might mean missing the solution
-* do the right thing, even if it means starting over. if you're not iterating (revising) you're wrong 
+* do the right thing, even if it means starting over 
 
 ### The first piece of advice I got going into college was “don’t major in sociology.” 
 I have since majored in sociology, and am awfully close to a double in philosophy. The ‘hard skills’ section of my resume lists three computer science courses, three economics classes, introductory statistics, and a whole lot of skilled trades abilities. I'm really hoping that Steve Jobs was [right](https://www.washingtonpost.com/news/innovations/wp/2018/06/12/why-liberal-arts-and-the-humanities-are-as-important-as-engineering/?utm_term=.53e0ff2597bd) when he said 
@@ -43,13 +44,11 @@ We designed our site around the logo colors, which were picked because they look
 
 Our website aside, [understanding the different way users interacted with our prototype](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) showed us just how many assumptions we had been making about the ways users navigated our app.And many testers didn't know what to do with the visualiation mock-ups on our paper prototype. Or most of our paper prototype, really.  This was embarrassing. If information isn't accessible, it might as well not exist. I've spent time working on accessibility and equitability in tech, and yet had discarded all of that in favor of a design that made sense to me. I still wish we had taken this as an opportunity to do a deep dive on data representation. Our entire project easily could have focused on the way people access and understand information. I regret not speaking up for that approach, because I think that understanding how people interact with data could have made me a better designer, writer, and communicator. 
 
-### We != User
+### We != Users
 
 Not only did I have to recenter accessibility as a priority, I also had to constantly remember that *I am not the end user.* I had to recenter my focus on the user, whether that was through refering to interviews and contextual inquiries, or bringing specific questions to usability reviews. This process was both new and familiar: in UX, having a user be involved at every stage of the design process is called participatory design. Previously, I had encountered this idea when writing an [ethnography on female queerness in Kuwait, last spring](https://londonmeanswild.github.io/research/2018/03/16/Kuwait.html). For the social scientists in the room, participatory design is similar to  Patricia Hill-Collins' Black Feminist Thought.<sup>3</sup>
 
-In UX,  which means having a user be involved at every step of the design process. Our participants were co-researchers and co-designers, not simply testers. The timeframe we were working in proved to create some limitations, however. The design process put parameters around the decisions my team and I made. Once we realized what we were testing for, or the questions to ask, it was time to iterate again. At every step we were pushing forward a half-polished product, guided by feedback that may or may not have been the best to follow. Our contextual inquires were guided by the best questions we knew to ask -- and those evolved with each encounter. Because our time and knowledge was limited, we often found ourselves looking back and saying "man, we should have asked **this one thing** differently, it could have changed everything." And because we had not established long-standing relationships with curators, the curators didn't know us well enough to understand what we were trying to say, nor did we know them well enough to always understand them. We found that [thinking out loud was an important tool](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) in continually centering the user experience, needs, and wants. 
-
-I consider this ability to look back and identify opportunities for change to be an extremely valuable takeaway. 
+In UX,  which means having a user be involved at every step of the design process. Our participants were co-researchers and co-designers, not simply testers. The timeframe we were working in proved to create some limitations, however. The design process put parameters around the decisions my team and I made. Once we realized what we were testing for, or the questions to ask, it was time to iterate again. At every step we were pushing forward a half-polished product, guided by feedback that may or may not have been the best to follow. Our contextual inquires were guided by the best questions we knew to ask -- and those evolved with each encounter. Because our time and knowledge was limited, we often found ourselves looking back and saying "man, we should have asked **this one thing** differently, it could have changed everything." And because we had not established long-standing relationships with curators, the curators didn't know us well enough to understand what we were trying to say, nor did we know them well enough to always understand them. We found that [thinking out loud was an important tool](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) in continually centering the user experience, needs, and wants.<sup>4</sup>
 
 ### Focusing on tech might mean missing solutions. 
 
@@ -80,7 +79,7 @@ So I'm going to spend my last three semesters trying to understand accountabilit
 
 And you? 
 
-Well, if you read this and found yourself entertained, or agreeing with my concerns, please do the tech industry, and the world, a favor. Hire a humanities major, or two, or three, or six. Bring conversations about ethics and real-life human consequences into the cost/benefit analysis. Consider who your product favors, and who might need it - but can't access it. Call it "identifying new markets" if you have to. But most of all, design for the users who are trusting your product. 
+Well, if you read this and found yourself entertained, or agreeing with my concerns, please do the tech industry - and the world - a favor. Hire a humanities major, or two, or three, or six. Bring conversations about ethics and real-life human consequences into the cost/benefit analysis. Consider who your product favors, and who might need it - but can't access it. Call it "identifying new markets" if you have to. But most of all, design for the users who are trusting your product. 
 
 And one last thing. If you still find yourself agreeing with me, this far into the piece, I'd strongly recommend hiring a [sociology major who's taken a little bit of computer science](https://londonmeanswild.github.io/).
 
@@ -90,3 +89,4 @@ And one last thing. If you still find yourself agreeing with me, this far into t
 1. [Usability Tester 2, though this particular quote is not in our final write-up](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/)
 2. For a conversation of the ethics around representation and classification, feel free to send me an email. Or, until 12/21/2018, swing by WCMA's [The Field is the World](https://wcma.williams.edu/the-field-is-the-world-williams-hawai%CA%BBi-and-material-histories-in-the-making/) exhibit. 
 3.  In understanding the experiences of our users, I needed to remember that concrete experiences create meaning for individuals and communities;  it's important to maintain dialogue between co-researchers in order to constantly assess the accuracy of our representations, interpretations, and iterations; community member engagement is key to ensuring each iteration is done with the end user (our co-researcher), in mind; knower adequacy depended on my team's collective perspectives and experiences, as well as our understanding of our privilege as designers. 
+4. Refining my ability to look back and identify opportunities for change is an extremely valuable takeaway. 
