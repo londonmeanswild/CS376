@@ -55,12 +55,9 @@ In UX,  which means having a user be involved at every step of the design proces
 
 I consider this ability to look back and identify opportunities for change to be an extremely valuable takeaway. 
 
+### Sometimes the best solution is low-tech
 
-
--->
-
-Limitations:
-
+One of the barriers to our application is that it is a new mobile platform. 
 
 
 
