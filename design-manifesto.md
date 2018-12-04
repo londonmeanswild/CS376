@@ -6,9 +6,9 @@ title: Design manifesto
 TLDR; designers need to be constantly mindful of five things:
 * ethics (testing and implications of their technology)
 * accessibility and equability 
-* user-based design
-* when tech won’t fix the problem (or makes it worse)
-* the personas are probably only partially accurate
+* *we are not the end user*
+* tech won’t always fix the problem 
+* 
 
 If you’re still reading, I’ve got a story for you. It’s about how I’m apparently incapable of following directions. 
 
@@ -47,7 +47,7 @@ We designed our site around the logo colors, which were picked with little to no
 
 Our website aside, [understanding the different way users interacted with our prototype](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) showed us just how many assumptions we had been making about the ways users navigated our app. And many testers didn't know what to do with our visualiation mock-ups. I was mortified. The last six years of my life have been motivated by the desire to make post-military resources accessible to LGBTQ veterans. If information isn't accessible, it might as well not exist. I've spent time working on accessibility and equitability in tech, and yet had discarded all of that in favor of a design that made sense to me. I still wish we had taken this as an opportunity to do a deep dive on data representation. Our entire project easily could have focused on the way people access and understand information. I regret not speaking up for that approach, because I think that understanding how people interact with data could have made me a better designer, writer, and communicator. 
 
-### Designers != \neq users. 
+### We are not users.
 
 Not only did I have to recenter accessibility as a priority, I also had to constantly remember that *I am not the end user.* I had to recenter my focus on the user, whether that was through refering to interviews and contextual inquiries, or bringing specific questions to usability reviews. This process was both new and familiar: in UX, having a user be involved at every stage of the design process is called participatory design. Previously, I had encountered this idea when writing an [ethnography on female queerness in Kuwait, last spring](https://londonmeanswild.github.io/research/2018/03/16/Kuwait.html). For the social scientists in the room, participatory design is similar to  Patricia Hill-Collins' Black Feminist Thought.<sup>4</sup>
 
