@@ -73,7 +73,7 @@ These two tasks lend themselves well to analysis of data visualizations, and are
 
 ### So you finished this. Now what?
 
-Honestly, that's the question I'm asking myself too. When I reached out to a mentor recently for life advice, she said: 
+Honestly, that's the question I'm asking myself too. When I reached out to a mentor recently for life advice, she said
 > **take every class you can about ethics. tech is going to need it.**
 
 So I'm going to spend my last three semesters trying to understand accountability, accessibility, and the role of technology in human lives. Maybe, just maybe, I'll be able to find that sweet spot between Post-Its on a wall and instantaneous communication via smartphones. 
