@@ -29,8 +29,8 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-  Design Manifesto: 
-  #Personal Portfolio: "http://londonmeanswild.github.io"
+  Design Manifesto: /design-manifesto.md
+  Personal Portfolio: "http://londonmeanswild.github.io"
 
 
 # --- Footer options --- #
@@ -38,7 +38,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
+  name: Landon Marchant
   email: "lm9@williams.edu"
   github: londonmeanswild
   twitter: landonamarchant
