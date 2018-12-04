@@ -85,6 +85,7 @@ Well, if you read this and found yourself entertained, or agreeing with my conce
 And one last thing. If you still find yourself agreeing with me, this far into the piece, I'd strongly recommend hiring a [sociology major who's taken a little bit of computer science](https://londonmeanswild.github.io/).
 
 
+#### **Footnotes:**
 1. [Google Definitions, "ethnography".](https://www.google.com/search?q=ethnography&oq=ethnog&aqs=chrome.0.69i59j69i60l5.897j1j7&sourceid=chrome&ie=UTF-8)
 2. [Usability Tester 2, though this particular quote is not in our final write-up](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/)
 3. For a conversation of the ethics around representation and classification, feel free to send me an email. Or, until 12/21/2018, swing by WCMA's [The Field is the World](https://wcma.williams.edu/the-field-is-the-world-williams-hawai%CA%BBi-and-material-histories-in-the-making/) exhibit. 
