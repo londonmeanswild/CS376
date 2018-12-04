@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stop looking to tech for answers. 
-subtitle: This is technically a design manifesto for an upper level computer science course.
+title: Stop looking to tech for answers
+subtitle: This is technically a design manifesto for an upper level computer science course
 ---
 
 #### TLDR; 
