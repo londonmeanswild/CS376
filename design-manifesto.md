@@ -3,8 +3,8 @@ layout: page
 title: Design manifesto
 ---
 
-TLDR; 
-being a sociology major has proven to be useful to my design process, because the five concepts below aren't actually earth-shattering new ideas: 
+#### TLDR; 
+being a sociology major has proven to be useful to my design process, because the five concepts below weren't earth-shattering new ideas. Instead, iterative design helped me refine what each of them means and meant. 
 
 * there are ethical decisions to make in the design, testing, and implementation process
 * accessibility and equability are important, if people can't use your design it's worse than useless
@@ -63,7 +63,7 @@ Our project began with wanting to make database information [more three-dimensio
 
 > Museum databases are flat and one-dimensional. There is no way to quantify the things people feel while looking at, or experiencing, art. This flatness makes it difficult to connect people with artwork based on hard-to-articulate themes (such as feelings)... We have decided to try and use the responses people have to artwork in order to add depth to museum data files. We want to show the “texture and personality” of a collection, and the way exhibits make people feel. 
 
-By the end of our semester, we ended up [creating an application](https://youtu.be/wmY6SomfXZg) that would visualize visitor feedback and connect curators with visitors who want to ask questions. Our tasks also changed based on feedback from our professor. Since there were multiple other groups focusing on data collection of different forms, we assumed we had all the necessary data and instead focused on creating 
+By the end of our semester, we ended up ![creating an application](https://youtu.be/wmY6SomfXZg) that would visualize visitor feedback and connect curators with visitors who want to ask questions. Our tasks also changed based on feedback from our professor. Since there were multiple other groups focusing on data collection of different forms, we assumed we had all the necessary data and instead focused on creating 
 
 > a mobile application that will not only organize and present user data in an effective way, but allow curators to understand the experiences of visitors without sacrificing large amounts of time... a design that allows quick access to useful exhibit/artwork analytics as well as an easy way for curators to respond to visitor questions and suggestions. 
 
