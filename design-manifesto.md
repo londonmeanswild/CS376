@@ -54,7 +54,7 @@ In UX,  which means having a user be involved at every step of the design proces
 
 One of the barriers to our application is that it is a [new mobile platform for curators](https://londonmeanswild.github.io/museum-experience/clients/understanding-to-make/). Additionally, museum visitors need to interact with the visitor-facing portion of our technology (the part we didn't develop) in order to communicate with curators. While we do believe that our application makes data useful for curators, and connects them with visitors, I also realize that there are barriers to use by both curators and visitors. While performing our fourth [contextual inquiry](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/), my group and U4 came up with an to use Post-Its on a wall as a way for visitors to interact with art. Interns could document the responses in the same way the WALLS journal was transcribed, and this would allow people to engage with exhibits without needing a smartphone or WCMA-provided device. I know that this isn't related to our tasks, but it made me wonder what kind of solutions we were missing simply by being so focused on creating for a mobile platform. 
 
-### Start over. Often. 
+### Start over. Often. <sup> 5</sup>
 
 Like I mentioned above, I regret not lobbying to refocus our project entirely on data visualization. I was afraid of starting over, and of sunk costs. I also didn't know how to communicate the reasons for pursuing data representation to my group. Over the course of our project, however, we made several drastic pivots, and I now understand that design is very similar to research: you adapt based on findings. 
 
@@ -81,7 +81,7 @@ And you?
 
 Well, if you read this and found yourself entertained, or agreeing with my concerns, please do the tech industry - and the world - a favor. Hire a humanities major, or two, or three, or six. Bring conversations about ethics and real-life human consequences into the cost/benefit analysis. Consider who your product favors, and who might need it - but can't access it. Call it "identifying new markets" if you have to. But most of all, design for the users who are trusting your product. 
 
-And one last thing. If you still find yourself agreeing with me, this far into the piece, I'd strongly recommend hiring a [sociology major who's taken a little bit of computer science](https://londonmeanswild.github.io/).
+And one last thing. If you *still* find yourself intrigued, I'd strongly recommend hiring a [sociology major who's taken a little bit of computer science](https://londonmeanswild.github.io/).
 
 
 #### **Footnotes:**
@@ -90,3 +90,4 @@ And one last thing. If you still find yourself agreeing with me, this far into t
 2. For a conversation of the ethics around representation and classification, feel free to send me an email. Or, until 12/21/2018, swing by WCMA's [The Field is the World](https://wcma.williams.edu/the-field-is-the-world-williams-hawai%CA%BBi-and-material-histories-in-the-making/) exhibit. 
 3.  In understanding the experiences of our users, I needed to remember that concrete experiences create meaning for individuals and communities;  it's important to maintain dialogue between co-researchers in order to constantly assess the accuracy of our representations, interpretations, and iterations; community member engagement is key to ensuring each iteration is done with the end user (our co-researcher), in mind; knower adequacy depended on my team's collective perspectives and experiences, as well as our understanding of our privilege as designers. 
 4. Refining my ability to look back and identify opportunities for change is an extremely valuable takeaway. 
+5. Case in point, I've rewritten and edited this section five times so far. 
