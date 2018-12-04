@@ -14,6 +14,7 @@ being a sociology major has proven to be useful to my design process, because th
 
 ### The first piece of advice I got going into college was “don’t major in sociology.” 
 I have since majored in sociology, and am awfully close to a double in philosophy. The ‘hard skills’ section of my resume lists three computer science courses, three economics classes, introductory statistics, and a whole lot of skilled trades abilities. I'm really hoping that Steve Jobs was [right](https://www.washingtonpost.com/news/innovations/wp/2018/06/12/why-liberal-arts-and-the-humanities-are-as-important-as-engineering/?utm_term=.53e0ff2597bd) when he said 
+<h3 style="text-align: center;" markdown="1">This is a level 3 heading.</h3>
 >***it's technology married with liberal arts, married with the humanities, that yields us the result that makes our heart sing...*** 
 
 I’ve never thought of myself as designer before. Pre-college, I was a machinist and welder. So craftsman, sure. But a designer? That seemed like a job for people with artistic ability. Turns out, design isn’t just about making pretty infographics or app interfaces. It’s about creating functional and intuitive products that actually improve users lives. It’s about understanding the end user, as well as the potential consequences of implementing a design.  And this is where my humanities degree is useful. 
