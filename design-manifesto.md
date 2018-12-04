@@ -4,7 +4,7 @@ title: Design manifesto
 ---
 
 #### TLDR; 
-being a sociology major has proven to be useful to my design process, because the five concepts below weren't earth-shattering new ideas. Instead, iterative design helped me refine what each of them means and meant. 
+Being a sociology major has proven to be useful to my design process, because iterative design helped me refine the five ideas below. I've encountered every one of these in different settings. The iterative design process was an opportunity to see where tech, and human-centric problems I spend a lot of time thinking about, can meet.
 
 * there are ethical decisions to make in the design, testing, and implementation process
 * accessibility and equability are important, if people can't use your design it's worse than useless
